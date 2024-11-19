@@ -1,28 +1,29 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://camo.githubusercontent.com/6f927365ba0fec8bd6e97bdcb9837c500515600a8c1bcc100f3c7a5287c6889e/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Subhakanta Panda</h1>
 <h3 align="center">I’m a passionate Full-Stack Developer from india</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subha20032007&label=Profile%120views&color=0e75b6&style=flat" alt="subha20032007" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subha20032007&label=Profile%20views&color=0e75b6&style=flat" alt="subha20032007" /> </p>
 
 - 🔭 I’m currently working on [Hellokart](https://github.com/subha20032007/Hellokart)
 
-- 🌱 I’m currently learning **Dsa,DataAnalytics,python, java**
+- 🌱 I’m currently learning **Mern,Data-analytics,Python,Java**
 
 - 👯 I’m looking to collaborate on [Mantra](https://github.com/subha20032007/mantra/tree/main/mantra_app)
 
 - 🤝 I’m looking for help with [Bastra](https://github.com/subha20032007/Bastra)
 
-- 💬 Ask me about **Mern,Node,Express,mongodb,sql,react,redux,Javascript,html,css**
+- 💬 Ask me about **Node,Express,Mongodb,Sql,React,Redux,Javascript,Html,Css**
 
 - 📫 How to reach me **subhakantapanda2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhakanta-panda-392a3324a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhakanta-panda-392a3324a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhakanta-panda-392a3324a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhakanta-panda-392a3324a" height="30" width="40" /></a>
 <a href="https://codesandbox.com/subha20032007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="subha20032007" height="30" width="40" /></a>
-<a href="https://fb.com/subhakantapanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhakantapanda" height="30" width="40" /></a>
 <a href="https://instagram.com/subhakantapanda2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhakantapanda2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@subhakantapanda9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subhakantapanda9247" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@subhakantapanda9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subhakantapanda9247" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
