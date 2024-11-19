@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subhakanta Panda</h1>
 <h3 align="center">I’m a passionate Full-Stack Developer from india</h3>
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Developer;A+Professional+Coder;Data Analyst"></a>
+        src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Developer;A+Professional+Coder;Data+Analyst;"></a>
         
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
