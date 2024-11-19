@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif])]
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=150&amp;section=header&amp;text=You%20Found%20Me,%20Awesome!&amp;fontSize=35&amp;fontAlignY=20&amp;desc=...Know%20a%20little%20about%20me.&amp;descSize=20&amp;descAlignY=45&amp;animation=twinkling" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Subhakanta Panda</h1>
 <h3 align="center">I’m a passionate Full-Stack Developer from india</h3>
 <a href="https://github.com/durgeshrai633/readme-typing-svg"><img
